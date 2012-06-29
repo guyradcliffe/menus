@@ -1,0 +1,87 @@
+/********************** GENERAL STYLES ************************/
+.spacingIMED {margin-top:7px;}
+.spacingResidency {margin-top:8px;}
+
+/*********** GENERAL STYLES ***************/
+.negativemargin {margin-top:-20px;}
+
+/******************* ROTATOR STYLES ********************/
+div#features div {margin-bottom:0px;}
+
+/******************* bottom div Initiatives Right Column ***********/
+div.grid_980 div.grid_960 div.grid_310 div.center_310_home div.button-initiatives_bottom {height:15px; background:url(../images/right.initiatives.bottom.ie.300.jpg) no-repeat; margin:0 5px 1px 5px;} /* bottom margin needs a negative margin for some reason ?? */
+
+div.grid_980 div.grid_660 div.div_660 {margin:0 13px 0 15px;}
+div.grid_980 div.grid_660 div.div_660 h4 a {color:#006699; text-decoration:none;}
+div.grid_980 div.grid_660 div.div_660 h4 a:hover {color:#8dbcdf;}
+
+/************ RIGHT COLUMN 2ND & 3RD LEVEL PAGES ************/
+div.grid_980 div.grid_300 {float:right;}
+
+div.footer960 {margin:-8px 0 0 0;} 
+
+/********************** HEADER STYLES *************************/
+/*div.grid_980 div.header_960 div form input.searchfield {position:relative; top:0;}
+div.grid_980 div.header_960 div form input.searchbutton {position:relative; top:5px;}
+div.grid_980 div.header_960 div.searchdiv {margin-top:-27px;}*/
+
+/************** HEADER GRID ****************/
+div.grid_183 {margin-top:31px; margin-right:4px; margin-bottom:8px; margin-left:5px;}
+
+/************* BUTTON STYLE ************/
+div.marginleftNews {margin-left:6px;}
+
+/************** ABOUT ECFMG TOOLTIP ***********************/
+div.ttAbout div.tooltipmenu {padding:27px 0 0 15px; width:768px;}
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive {width:187px; height:70px;}
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.aboutoverview {width:187px; height:35px; cursor:pointer;}
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.aboutecfmg h5 {width:186px; margin:8px 0 auto 20px;}
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.svmpecfmg {width:186px; height:35px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.svmpecfmg h5.svmp {margin:0 0 auto 20px;}
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.aboutannualreport {width:186px; height:35px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.organizational {width:188px; height:35px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.trustees {width:187px; height:34px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.seniorstaff {width:186px; height:34px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.history {width:186px; height:34px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.careers {width:188px; height:34px; cursor:pointer; overflow:hidden;}
+
+/*********************** PROGRAMS TOOLTIP STYLES *************************/  
+div.ttPrograms div.tooltipmenu {padding:27px 0 0 15px; width:770px; height:235px;}
+div.ttPrograms div.tooltipmenu a div.programsoverview {display:block; width:150px; height:25px; cursor:pointer; float:right; margin:0 10px 0 0;}
+div.ttPrograms div.tooltipmenu div.fifty-fifty {width:375px; float:left; height:202px; margin:0;}
+div.ttPrograms div.tooltipmenu div.fifty-fifty a div.certification {width:375px; height:64px; cursor:pointer;}
+div.ttPrograms div.tooltipmenu div.fifty-fifty a div.cvs {width:375px; height:68px; cursor:pointer;}
+div.ttprograms div.tooltipmenu div.fifty-fifty a div.eras {width:375px; height:70px; cursor:pointer;}
+div.ttPrograms div.tooltipmenu div.fifty-fifty a div.j1 {width:374px; height:64px; cursor:pointer;}
+div.ttprograms div.tooltipmenu div.fifty-fifty a div.eics {width:374px; height:68px; cursor:pointer;}
+div.ttPrograms div.tooltipmenu div.fifty-fifty a div.acculturation {width:374px; height:70px; cursor:pointer;}
+
+/************* ONLINESERVICES TOOLTIP STYLES ************/
+div.ttOnlineservices div.tooltipmenu {width:770px;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty {width:375px; float:left; margin:0;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.iwa {width:375px; height:90px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.oasis {width:375px; height:104px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.step2cs {width:375px; height:42px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.cvsonlineL {width:375px; height:40px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.ian {width:375px; height:70px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.evn {width:374px; height:55px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.emswp {width:374px; height:96px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.cvsonline {width:374px; height:40px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.imed {width:374px; height:42px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.employment {width:374px; height:42px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty a div.overview {width:374px; height:27px; cursor:pointer;}
+div.ttOnlineservices div.tooltipmenu div.fifty-fifty div.h4holder {width:374px;}
+
+/************* NEWS TOOLTIP STYLES ************/
+div.ttNews div.tooltipmenu {padding:37px 10px 10px 15px;}
+
+/************* RESOURCES TOOLTIP STYLES **************/
+div.ttResources div.tooltipmenu {width:775px;}
+div.ttResources div.tooltipmenu div.thirtythree a div.six {cursor:pointer; text-decoration:none;}
+div.ttResources div.tooltipmenu div.thirtythree a div.six h5.header {margin:2px 0 0 25px;}
+div.ttResources div.tooltipmenu div.thirtythree a div.behavior {height:48px; cursor:pointer; text-decoration:none;}
+div.ttResources div.tooltipmenu div.thirtythree a div.behavior h5.header {margin:5px 0 0 25px;}
+div.ttResources div.tooltipmenu div.annualreport {height:167px;}
+div.ttResources div.tooltipmenu div.data {width:300px; float:left; height:160px; margin:0;}
+div.ttResources div.tooltipmenu div.data a div.imagelink {height:168px; width:310px; cursor:pointer; text-decoration:none;}
+div.ttResources div.tooltipmenu a.roverview {float:right; margin:-6px 0 0 0; padding:0 10px 0 0;}
