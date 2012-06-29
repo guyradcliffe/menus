@@ -46,15 +46,16 @@ div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.history {width:186px
 div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.careers {width:188px; height:34px; cursor:pointer; overflow:hidden;}
 
 /*********************** PROGRAMS TOOLTIP STYLES *************************/  
-div.ttPrograms div.tooltipmenu {padding:27px 0 0 15px; width:770px; height:235px;}
+div.ttPrograms div.tooltipmenu {padding:27px 0 0 15px; width:770px; height:313px;}/* was 235 */
 div.ttPrograms div.tooltipmenu a div.programsoverview {display:block; width:150px; height:25px; cursor:pointer; float:right; margin:0 10px 0 0;}
-div.ttPrograms div.tooltipmenu div.fifty-fifty {width:375px; float:left; height:202px; margin:0;}
+div.ttPrograms div.tooltipmenu div.fifty-fifty {width:375px; float:left; height:280px; margin:0;} /* was 202 */
 div.ttPrograms div.tooltipmenu div.fifty-fifty a div.certification {width:375px; height:64px; cursor:pointer;}
 div.ttPrograms div.tooltipmenu div.fifty-fifty a div.cvs {width:375px; height:68px; cursor:pointer;}
 div.ttprograms div.tooltipmenu div.fifty-fifty a div.eras {width:375px; height:70px; cursor:pointer;}
 div.ttPrograms div.tooltipmenu div.fifty-fifty a div.j1 {width:374px; height:64px; cursor:pointer;}
 div.ttprograms div.tooltipmenu div.fifty-fifty a div.eics {width:374px; height:68px; cursor:pointer;}
 div.ttPrograms div.tooltipmenu div.fifty-fifty a div.acculturation {width:374px; height:70px; cursor:pointer;}
+div.ttprograms div.tooltipmenu div.fifty-fifty a div.usmle {width:375px; height:77px; cursor:pointer;}
 
 /************* ONLINESERVICES TOOLTIP STYLES ************/
 div.ttOnlineservices div.tooltipmenu {width:770px;}
